@@ -1,14 +1,12 @@
 {
   "name": "wromo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "wromo.js",
   "main": "index.js",
   "scripts": {
-    "dev": "wromo dev",
-    "build": "wromo build",
-    "preview": "wromo preview",
-    "lint": "wromo lint",
-    "test": "wromo test"
+    "dev": "next start",
+    "build": "next build",
+    "preview": "next dev"
   },
   "keywords": [],
   "author": "Ghepes",
@@ -26,7 +24,7 @@
     "next": "^14.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "wromo": "^1.0.4"
+    "wromo": "^1.0.5"
   },
   "directories": {
     "lib": "lib"
