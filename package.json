@@ -1,0 +1,23 @@
+{
+  "name": "wromo",
+  "version": "1.0.0",
+  "description": "wromo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ghepes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghepes/wromo.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ghepes/wromo.js/issues"
+  },
+  "homepage": "https://github.com/Ghepes/wromo.js#readme",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
