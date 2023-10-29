@@ -16,7 +16,7 @@ This will display the message "Hello from 'wromo'!" in the terminal.
 1. Make sure you have Node.js installed on your computer.
 2. Create a new directory for the "wromo" project.
 3. Navigate to the project directory using the `cd directory_name` command.
-4. Clone or download this repository into the project directory.
+4. Install ``npm install wromo`` or Clone or download this repository into the project directory.
 5. Run the `npm install` command to install the project dependencies.
 
 ## Contribution
@@ -27,4 +27,4 @@ If you would like to contribute to this project, please open issues or submit pu
 
 This project is licensed under the [MIT License](https://chatgpt.ghepes.net/LICENSE).
 
-This is a basic description for the "wromo" script and "hello" command. Make sure to adapt the description and information according to the specific needs and functionalities of your script and project.
+This is a basic description for the "wromo" script and "hello" command.
