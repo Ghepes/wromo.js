@@ -1,6 +1,6 @@
 {
   "name": "wromo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wromo.js",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Ghepes/wromo.js#readme",
   "dependencies": {
     "commander": "^11.1.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
