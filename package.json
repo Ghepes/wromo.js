@@ -1,6 +1,6 @@
 {
   "name": "wromo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "wromo.js",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,9 @@
     "next": "^14.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "wromo": "^1.0.5"
+    "wromo": "^1.0.6"
   },
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
