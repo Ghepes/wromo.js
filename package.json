@@ -1,10 +1,14 @@
 {
   "name": "wromo",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "wromo.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "wromo dev",
+    "build": "wromo build",
+    "preview": "wromo preview",
+    "lint": "wromo lint",
+    "test": "wromo test"
   },
   "keywords": [],
   "author": "Ghepes",
@@ -18,7 +22,11 @@
   },
   "homepage": "https://github.com/Ghepes/wromo.js#readme",
   "dependencies": {
-    "commander": "^11.1.0"
+    "commander": "^11.1.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wromo": "^1.0.4"
   },
   "directories": {
     "lib": "lib"
