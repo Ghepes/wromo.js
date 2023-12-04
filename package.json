@@ -1,6 +1,6 @@
 {
   "name": "wromo",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "wromo.js",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Ghepes/wromo.js#readme",
   "dependencies": {
     "commander": "^11.1.0",
-    "next": "^14.0.0",
+    "eslint-config-next": "^14.0.3",
+    "next": "^14.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "wromo": "^1.0.6"
